@@ -9,6 +9,7 @@ Linux是一種自由開放原始碼的類似Unix 的作業系統，其廣泛運�
 ![](https://i.imgur.com/MWJxUon.png)
 
  Linux背景知識-發展與線上升級
+
 Linux的內核版本編號：2.6.32-358.el6.x86_64(通過命令uname -a可以看到)
                             
                                    （主版本.次版本.釋出版本-修改版本）
