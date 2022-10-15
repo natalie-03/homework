@@ -67,7 +67,15 @@ ls-al顯示目錄下的所有檔案(包含隱藏檔)詳細資訊
 
 cat查看檔案內容
 
+
+![image](https://user-images.githubusercontent.com/112846166/195986715-5ebb6e69-831b-4075-98d2-453f80d99f9e.png)
+
+
 pwd顯示目前的目錄位置
+
+
+![image](https://user-images.githubusercontent.com/112846166/195986772-4a1ec07a-e41e-4a38-a68f-17a686161a50.png)
+
 
 cp複製
 
