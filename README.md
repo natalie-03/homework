@@ -56,6 +56,8 @@ touch建立檔案
 vi編輯檔案
 
 ls顯示目錄下的所有檔案
+![image](https://user-images.githubusercontent.com/112846166/195986510-682ca481-cb47-43a9-a0cf-fa44c03db9fd.png)
+
 
 ls-al顯示目錄下的所有檔案(包含隱藏檔)詳細資訊
 ![](https://i.imgur.com/WF5Bl29.png)
